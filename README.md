@@ -1,1 +1,1 @@
-# test-integrate
+Exercise on testing and continuous integration.
